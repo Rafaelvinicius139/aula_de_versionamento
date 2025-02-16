@@ -1,2 +1,2 @@
 # aula_de_versionamento
-eula_versionamento
+aula de versionamento da escola dnc
